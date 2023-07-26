@@ -1,5 +1,4 @@
-# Samp Rp Helper 
-## СКАЧАТЬ ПЛАГИН 👉 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)][release]
+### Samp Rp Helper >> СКАЧАТЬ ПЛАГИН 👉 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)][release]
 
 Данный файл предназанчен для облегчения игры на проекте самп рп, из основного:
 - Работает на любой системе;
